@@ -1,4 +1,4 @@
-package com.restsecurity.declarative.example.model;
+package com.restsecurity.containermangd.example.model;
 
 import org.codehaus.jackson.annotate.JsonIgnore;
 
