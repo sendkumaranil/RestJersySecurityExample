@@ -1,4 +1,4 @@
-# RestJersySecurityExample
+# RestJersySecurityExample (Container Managed)
 Rest Security Example using Jersy API
 This example is using Container Managed Security.
 where following files will be modified for container managed using BASIC Authentication type.
