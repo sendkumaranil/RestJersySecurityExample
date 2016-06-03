@@ -1,4 +1,4 @@
-package com.restsecurity.declarative.example.util;
+package com.restsecurity.containermangd.example.util;
 
 import java.util.ArrayList;
 import java.util.List;
