@@ -1,6 +1,6 @@
 # RestJersySecurityExample
 Rest Security Example using Jersy API
-This example is using Declarative Approach,
+This example is using Container Managed Security.
 where following files will be modified for declarative approaches using BASIC Authentication type.
 1)web.xml
 2)tomcat-user.xml
